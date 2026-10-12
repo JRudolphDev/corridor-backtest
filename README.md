@@ -108,7 +108,7 @@ Equity curves, drawdown, rolling Sharpe, metrics comparison, and avg realized al
 ## Quickstart
 
 ```bash
-git clone https://github.com/JaredRudolph/corridor-backtest.git
+git clone https://github.com/JRudolphDev/corridor-backtest.git
 cd corridor-backtest
 uv run main.py
 ```
